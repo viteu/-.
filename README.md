@@ -3,12 +3,12 @@
     <header style="background-color:green">
         <img src="https://desport.com.ua/image/cache/catalog/photo/4/rb7-black-gold-1000x1000.jpg" height="50px"/>
         <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D1%96_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%B0" style="color:white">Історія бойових мистецтв</a>
-        <h1 style=text align="center"><font color="white">Спорт в Україні</font></h1>
+        <h1 style=text align="center"><font color="white">Бійцівський клуб "Самурай"</font></h1>
     </header>
     <main style="background-color:lightgray">
         <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа бойових мистецтв<br/>
         <img src="https://mma.metaratings.ru/_images/insecure/w-680:h-512/bG9jYWw6Ly8vL3VwbG9hZC9zcHJpbnQuZWRpdG9yLzhkOS84ZDkwOGY1MDMzOTg4MThlZmZjMmJjNjFhOGViZTQyOC5qcGc=.jpg" height="150"/></h1>
-        <p style="font-size:20px">Запрошуємо до нашого клубу.Для вступу потрібно мати:<b> форму, діючу страховку та бійцівський дух.</b>Можна обрати різні види карате:<b>шотокан,годзю-рю,кіокушинкай та багато інших.</b>Не залипай в телефоні,приходь до нас!(У цьому місяці знижки до 30% не пропустіть!)</p>
+        <p style="font-size:20px">Запрошуємо до нашого клубу.Для вступу потрібно мати:<b> форму, діючу страховку та бійцівський дух.</b>Можна обрати різні види карате:<b>шотокан,годзю-рю,кіокушинкай та багато інших.</b>Не залипай в телефоні,приходь до нас!(У цьому місяці знижки до 30%, не пропустіть!)</p>
         <img src="https://www.kartinki24.ru/uploads/gallery/main/26/kartinki24_ru_men_94.jpg" height="230px";/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpTJx1zNT3CtQjjnLQNVyzwLC_M8NcoG2kA&usqp=CAU" height="230px";/>
         <table style="border:1px solid green;border-collapse:collapse;">
             <tr>
