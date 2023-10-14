@@ -20,14 +20,14 @@
             <tr>
 <td style=background-color="lightgreen">вівторок</td>
 <td>13:30</td>
-<td>14:00</td>
 <td>15:00</td>
+<td>18:00</td>
             </tr>
             <tr>
 <td style=background-color="red">четвер</td>
 <td>12:30</td>
 <td>13:40</td>
-<td>15:00</td>
+<td>16:00</td>
             </tr>
             <tr>
 <td style=background-color="lightgreen">субота</td>
