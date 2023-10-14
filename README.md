@@ -8,7 +8,7 @@
     <main style="background-color:lightgray">
         <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа бойових мистецтв<br/>
         <img src="https://mma.metaratings.ru/_images/insecure/w-680:h-512/bG9jYWw6Ly8vL3VwbG9hZC9zcHJpbnQuZWRpdG9yLzhkOS84ZDkwOGY1MDMzOTg4MThlZmZjMmJjNjFhOGViZTQyOC5qcGc=.jpg" height="150"/></h1>
-        <p style="font-size:20px">Запрошуємо освоїти будь-який з видів рукопашного бою, який вам до вподоби. <br/>У нас представлені: <b><i>традиційний рукопашний бій, тайський бокс, джиу-джитсу, карате та багато іншого</i></b>. Заняття ведуть професійні тренери у групах різного рівня.</p>
+        <p style="font-size:20px">Запрошуэмо до нашого клубу.Для вступу потрыбно мати:<b> форму, діючу страховку.</b>Можна обрати різні види карате:<b>шотокан,годзю-рю,кіокушинкай та багато інших.</b>Не залипай в телефоні,приходь до нас!(У цьому місяці знижки до 30% не пропустіть!)</p>
         <img src="https://www.kartinki24.ru/uploads/gallery/main/26/kartinki24_ru_men_94.jpg" height="230px";/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpTJx1zNT3CtQjjnLQNVyzwLC_M8NcoG2kA&usqp=CAU" height="230px";/>
         <table style="border:1px solid green;border-collapse:collapse;">
             <tr>
