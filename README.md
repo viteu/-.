@@ -1,7 +1,7 @@
 <html>
     <body style="background:#f4fff5;font-family:sans-serif">
     <header style="background-color:black">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsportgo.com.ua%2F11023-bokserskie-perchatki-adidas-aiba-sinie-10-untsiy&psig=AOvVaw0EcP-xqe_c5_xHMdgca8di&ust=1697397454021000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiPlbSg9oEDFQAAAAAdAAAAABAE" height="50px"/>
+        <img src="https://desport.com.ua/image/cache/catalog/photo/4/rb7-black-gold-1000x1000.jpg" height="50px"/>
         <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D1%96_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%B0" style="color:white">Історія</a>
         <title><font color="white">Спорт в Україні</font></title>
     </header>
