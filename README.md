@@ -2,8 +2,8 @@
     <body style="background:#f4fff5;font-family:sans-serif">
     <header style="background-color:black">
         <img src="https://desport.com.ua/image/cache/catalog/photo/4/rb7-black-gold-1000x1000.jpg" height="50px"/>
-        <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D1%96_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%B0" style="color:white">Історія</a>
-        <font color="white">Спорт в Україні</font>
+        <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D1%96_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%B0" style="color:white">Історія бойових мистецтв</a>
+        <h1 style=text align="center"><font color="white">Спорт в Україні</font></h1>
     </header>
     <main style="background-color:lightgray">
         <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа бойових мистецтв<br/>
