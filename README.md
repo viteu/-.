@@ -29,6 +29,12 @@
 <td>13:40</td>
 <td>15:00</td>
             </tr>
+            <tr>
+<td style=background-color="lightgreen">субота</td>
+<td>14:00</td>
+<td>15:00</td>
+<td>16:00</td>
+            </tr>
             </table>
     </main>
     <footer style="background-color:black;color:white;">
